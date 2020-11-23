@@ -159,7 +159,7 @@ div.menu-category {
 	padding-bottom: 0.1em;
 	padding-left: 25px;
 	padding-right: 25px;
-	font-size: 24px;
+	font-size: 18px;
 	line-height: 2;
 	border-top: 0.8px solid #e1e4e8;
 }
@@ -170,11 +170,11 @@ div.menu-item {
 	padding-right: 25px;
 }
 
- div#toptitle {
+div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
 	border-bottom: 1px solid #e1e4e8;
-} */
+}
 
 /* Reduce space if we begin the page with a title. */
 div#toptitle + h2, div#toptitle + h3 {
